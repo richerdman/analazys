@@ -8,3 +8,4 @@ This information could be posts about ongoing war, history or upcoming elections
 This information is then used to enhance situational awareness, helping users stay informed and upto date on latest developments.
 This tool will use Natural Language Processing (NLP) to analyze the text content of social media posts and extract relevant information.
 
+I will be using Python and use ""Unsupervised learningfor topic modeling."? 
